@@ -1,0 +1,6 @@
+c:\users\589934\documents\visual studio 2015\Projects\ProjLocalFunction\ReturnMultipleValues\bin\Debug\ReturnMultipleValues.exe.config
+c:\users\589934\documents\visual studio 2015\Projects\ProjLocalFunction\ReturnMultipleValues\bin\Debug\ReturnMultipleValues.exe
+c:\users\589934\documents\visual studio 2015\Projects\ProjLocalFunction\ReturnMultipleValues\bin\Debug\ReturnMultipleValues.pdb
+c:\users\589934\documents\visual studio 2015\Projects\ProjLocalFunction\ReturnMultipleValues\obj\Debug\ReturnMultipleValues.exe
+c:\users\589934\documents\visual studio 2015\Projects\ProjLocalFunction\ReturnMultipleValues\obj\Debug\ReturnMultipleValues.pdb
+c:\users\589934\documents\visual studio 2015\Projects\ProjLocalFunction\ReturnMultipleValues\obj\Debug\ReturnMultipleValues.csprojResolveAssemblyReference.cache
